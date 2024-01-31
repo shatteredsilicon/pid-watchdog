@@ -1,7 +1,0 @@
-[prune]
-  go-tests = true
-  unused-packages = true
-
-[[override]]
-  name = "github.com/spf13/viper"
-  version = "~v1.2.1"
